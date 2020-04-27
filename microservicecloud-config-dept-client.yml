@@ -12,7 +12,7 @@ spring:
    datasource:
     type: com.alibaba.druid.pool.DruidDataSource
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://123.207.230.136:3306/cloudDB01?characterEncoding=utf8&useSSL=false&autoReconnect=false&rewriteBatchedStatements=true
+    url: jdbc:mysql://123.207.230.136:3306/cloudDB03?characterEncoding=utf8&useSSL=false&autoReconnect=false&rewriteBatchedStatements=true
     username: root
     password: 123456
     dbcp2:
