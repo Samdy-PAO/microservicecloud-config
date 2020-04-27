@@ -6,7 +6,7 @@
 server:
   port: 8001
 spring: 
-   profiles: test
+   profiles: dev
    application: 
     name: microservicecloud-config-dept-client
    datasource:
